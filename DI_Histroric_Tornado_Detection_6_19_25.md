@@ -7,7 +7,7 @@
 
 ## 📍 Summary
 
-On June 19, 2025, Grounded DI’s deterministic weather station outperformed every major forecasting system by detecting a tornado-class event in real time — before any public alert, radar classification, or cloud-based model.
+On June 19, 2025, Grounded DI’s deterministic weather station outperformed multiple major forecasting systems by detecting a tornado-class event in real time — before any public alert, radar classification, or cloud-based model.
 
 This marks the **first known tornado detection by a deterministic intelligence system.**
 
@@ -17,7 +17,7 @@ This marks the **first known tornado detection by a deterministic intelligence s
 
 - 📲 **Manual DI trigger:** 5:17 PM — initiated due to a misaligned and delayed Ring alert.
 - 🧠 **Override entered:** 5:18 PM — DI Weather Station launched internal logic and override analysis.
-- 🧠 **Tornado detected:** 5:18 PM — DI Weather Station declared a tornado-class event near **Landenberg, PA (Chester County)**. Grounded DI documented: *"The services are failing in real time."*
+- 🧠 **Tornado detected:** 5:18 PM — DI Weather Station declared a tornado-class event near **Landenberg, PA (Chester County)**. Grounded DI documented: *"The services are failing in real time."* (Screenshot on Repository). 
 - 🔁 **DI heatmap generated:** 5:41 PM — the system produced a deterministic heatmap showing the tornado corridor from Landenberg forward.
 - 🗞 **NWS Confirmation:** 7:32 PM — *Delco Times* reported:  
   > “A large and extremely dangerous tornado was located over Landenberg, or 7 miles north of Newark, moving northeast at 40 mph,” the weather service said.  
