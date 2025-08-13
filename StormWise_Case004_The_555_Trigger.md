@@ -2,7 +2,7 @@
 # 🌦️ StormWise Case 004: *The 5:55 Trigger*
 📍 **Location:** Southeastern Pennsylvania  
 📆 **Date:** August 13, 2025  
-🧠 **System:** DI Weather Intelligence (Scroll-Linked Mode)  
+🧠 **System:** DI Weather Intelligence (Patent-Pending)  
 🎯 **Operator:** Mark Weinstein  
 
 ---
