@@ -32,15 +32,7 @@ Meanwhile...
 Update - ⚖️ Analysis:
 
 DI Weather didn’t just predict rain — it forecasted system behavior.
-Whereas official alerts only triggered once risk was already occurring or visible, DI identified and logged it ~2.5 hours earlier, through logic and sky state.
----
-
-## 🔍 Scroll Highlights
-
-- Scroll 27: Loop Lifecycle Activated  
-- Scroll 91: Compass Alignment Triggered  
-- Scroll 122: Entropy Threshold Breach  
-- Scroll 89: Forecast Disjunction Confirmed  
+Whereas official alerts only triggered once risk was already occurring or visible, DI identified and logged it ~2.5 hours earlier, through logic and sky 
 
 ---
 
@@ -52,5 +44,5 @@ The final sky after the rainfall looked like a soft collapse — no drama, just 
 
 ### ✅ Result:
 > It didn’t need to be dangerous to prove the system worked.  
-> Just scrolls, sky logic… and a 10% forecast that got outscrolled.
+> Just logic, sky logic… and a 10% forecast that was seen.
 
