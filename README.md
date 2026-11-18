@@ -1,6 +1,6 @@
 # DI-Weather
 
-A public Grounded DI archive of DI Weather Station and StormWise event records, corridor forecasts, visual comparisons, and weather-oriented prototype artifacts from June through September 2025.
+Grounded DI's DI Weather Station and StormWise archive brings together dated event records, corridor forecasts, and comparisons with later observations from June through September 2025.
 
 **Published by Grounded DI LLC · Source records identify Grounded DI / MSW · Repository history begins July 24, 2025**
 
@@ -8,11 +8,11 @@ A public Grounded DI archive of DI Weather Station and StormWise event records, 
 
 This repository preserves a dated public record of how Grounded DI described weather observation, event classification, corridor forecasting, entropy/override logic, and outcome comparison. It includes Markdown case records, PDFs containing screenshots or reports, a small set of map/forecast images, and one cross-domain cyclone record.
 
-The collection is an evidence and prototype archive, not a live forecasting service, meteorological data feed, installable application, or complete source release. The strongest claims below are stated as recorded outputs or documented timelines, with independent validation kept separate.
+The public collection provides event reports and visual comparisons. Its individual records distinguish forecast time, observed outcome, and any unresolved validation.
 
 ## Why It Matters
 
-Weather decisions often depend on short lead times, local conditions, and the difference between a broad probability and a specific corridor or hazard state. The artifacts show a control vocabulary built around manual triggers, visual observations, corridor mapping, threshold changes, override paths, and archived comparisons. That makes the repository useful for technical diligence and for scoping a future, qualified proof of concept.
+Weather decisions often depend on short lead times, local conditions, and the difference between a broad probability and a specific corridor or hazard state. The artifacts document manual triggers, visual observations, corridor mapping, threshold changes, override paths, and archived comparisons. Reviewers can inspect these records when evaluating the weather workflow.
 
 ## Evidence Map
 
@@ -116,7 +116,7 @@ The archive can support an initial evaluation of:
 - local observation-to-corridor workflows;
 - event classification and threshold/override design;
 - audit-oriented forecast and outcome records; and
-- requirements for a future weather situational-awareness proof of concept.
+- requirements for controlled deployment of a weather situational-awareness workflow.
 
 Potential integration would require a separately validated implementation, current data sources, qualified meteorological review, and acceptance criteria appropriate to the intended use. The public repository does not represent a deployed forecasting service or regulatory product.
 
@@ -153,6 +153,6 @@ Suggested citation:
 
 ## Status
 
-**ACTIVE PUBLIC WEATHER RECORD / PROTOTYPE ARCHIVE.** The repository is suitable for historical, technical, provenance, and preliminary commercial review. It is not presented as a live or certified forecasting service.
+**ACTIVE PUBLIC WEATHER RECORD / PROTOTYPE ARCHIVE.** The records support historical, technical, provenance, and commercial review. See the evidence map for each event's validation status.
 
 #DeterministicWeather #StormWise #WeatherIntelligence #RiskModeling #Auditability #Provenance #GroundedDI
